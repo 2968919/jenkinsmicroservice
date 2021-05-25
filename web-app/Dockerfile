@@ -1,2 +1,2 @@
 FROM httpd:2.4
-EXPOSE 81
+EXPOSE 80
