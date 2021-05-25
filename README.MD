@@ -21,5 +21,5 @@ $ docker-compose up
 
 ### Running
 
-- Go to your browser and open the url http://localhost:8080
+- Go to your browser and open the url http://localhost:8081
 - Type in user IDs into the text field (1,2,3) and select Get Username or Get Inventory
